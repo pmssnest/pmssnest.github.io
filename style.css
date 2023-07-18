@@ -578,4 +578,20 @@ footer p{
     line-height: 25px;
 }
 
+/* ABOUT US PAGE */
+
+#about-head{
+    display: flex;
+    align-items: center;
+}
+#about-head img{
+    width: 100%;
+    height: auto;
+}
+
+#about-head div{
+    padding-left: 40px;
+}
+
+
 

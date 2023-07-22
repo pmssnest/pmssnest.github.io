@@ -653,8 +653,13 @@ footer p{
     font-size: 13px;
 }
 
+#cart-add {
+    text-align: right;
+}
+
 #cart-add button{
     background-color: teal;
+    color: white;
 }
 
 

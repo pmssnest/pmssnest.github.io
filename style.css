@@ -145,7 +145,6 @@ ul li ul.dropdown {
     background-color: rgb(224, 242, 255);
     position: absolute;
     z-index: 999;
-    display: none;
     text-align: center;
     padding-top: 20px;
     border: 10px;

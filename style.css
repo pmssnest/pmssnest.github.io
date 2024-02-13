@@ -385,17 +385,6 @@ ul li:hover ul.dropdown {
     background-image: url(img/smimg2.jpg);
 }
 
-#smbanner .bannerbox3 {
-    background-image: url(img/smimg3.jpg);
-}
-
-#smbanner .bannerbox4 {
-    background-image: url(img/smimg5.jpg);
-}
-
-#smbanner .bannerbox5 {
-    background-image: url(img/smimg4.jpg);
-}
 
 #smbanner h4 {
     color: cornflowerblue;
@@ -435,7 +424,7 @@ ul li:hover ul.dropdown {
     flex-direction: column;
     justify-content: center;  
     align-items: flex-start;
-    background-image: url(img/pmss_nest_bg_2.png);
+    background-image: url(img/smimg3.jpg);
     min-width: 30%;
     width: 50vh;
     height: 30vh;
@@ -445,12 +434,14 @@ ul li:hover ul.dropdown {
     margin-bottom: 20px;
 }
 
-#banner3 .bannerbox2{
-    background-image: url(img/pmss_nest_bg_2.png);
+
+
+#banner3 .bannerbox1{
+    background-image: url(img/smimg4.jpg);
 }
 
 #banner3 .bannerbox3{
-    background-image: url(img/pmss_nest_bg_2.png);
+    background-image: url(img/smimg5.jpg);
 }
 
 #banner3 h2 {

@@ -389,6 +389,14 @@ ul li:hover ul.dropdown {
     background-image: url(img/smimg3.jpg);
 }
 
+#smbanner .bannerbox4 {
+    background-image: url(img/smimg5.jpg);
+}
+
+#smbanner .bannerbox5 {
+    background-image: url(img/smimg4.jpg);
+}
+
 #smbanner h4 {
     color: cornflowerblue;
     font-size: 20px;

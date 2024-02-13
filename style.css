@@ -367,7 +367,7 @@ ul li:hover ul.dropdown {
     flex-direction: column;
     justify-content: center;  
     align-items: flex-start;
-    background-image: url(img/pmss_nest_bg_2.png);
+    /* background-image: url(img/pmss_nest_bg_2.png); */
     min-width: 580px;
     width: 50vh;
     height: 50vh;

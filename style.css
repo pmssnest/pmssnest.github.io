@@ -80,7 +80,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 80px;
+    padding: 20px 50px;
     background: rgb(224, 242, 255);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
     z-index: 999;

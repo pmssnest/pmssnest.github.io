@@ -380,6 +380,15 @@ ul li:hover ul.dropdown {
     background-image: url(img/smimg1.jpg);
 }
 
+
+#smbanner .bannerbox1 {
+    background-image: url(img/smimg2.jpg);
+}
+
+#smbanner .bannerbox3 {
+    background-image: url(img/smimg3.jpg);
+}
+
 #smbanner h4 {
     color: cornflowerblue;
     font-size: 20px;
